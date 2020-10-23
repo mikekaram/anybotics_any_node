@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<package format="2">
+
+  <name>anybotics_signal_handler</name>
+  <version>0.5.0</version>
+  <description>Contains a static signal handling helper class.</description>
+
+  <license>BSD</license>
+
+  <author email="pleemann@anybotics.com">Philipp Leemann</author>
+  <maintainer email="mickaram@hotmail.com">Mike Karamousadakis</maintainer>
+  <url>https://github.com/mikekaram/anybotics_any_node</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <test_depend>gtest</test_depend>
+<!--   <build_depend>cmake_clang_tools</build_depend> -->
+<!--   <test_depend>cmake_code_coverage</test_depend> -->
+
+</package>
