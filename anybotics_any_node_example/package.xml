@@ -3,7 +3,7 @@
 <package format="2">
 
   <name>anybotics_any_node_example</name>
-  <version>0.5.0</version>
+  <version>0.5.1</version>
   <description>anybotics_any_node example</description>
 
   <license>BSD</license>
